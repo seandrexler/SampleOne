@@ -1,0 +1,1 @@
+﻿package{	import flash.display.Sprite;	public class GamePiece extends Sprite	{		public function GamePiece		{			super();		}	}}
